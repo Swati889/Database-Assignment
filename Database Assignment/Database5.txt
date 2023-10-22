@@ -1,0 +1,19 @@
+Types And Classification Of Database Management System + PDF – As we all know DBMS is an interesting subject and so is its classification. There are several criteria based on which DBMS is classified. The classification and types of Database Management System(DBMS) is explained in a detailed manner below based on the different factors. At the end of this article, you will be given a free pdf copy of all these types of DBMS.
+
+Types And Classification Of Database Management System + PDF
+
+Based on the data model
+Relational database – This is the most popular data model used in industries. It is based on the SQL. They are table oriented which means data is stored in different access control tables, each has the key field whose task is to identify each row. Few examples are MYSQL(Oracle, open source), Oracle database (Oracle), Microsoft SQL server(Microsoft) and DB2(IBM).
+
+Object oriented database – The information here is in the form of the object as used in object oriented programming. It adds the database functionality to object programming languages. It requires less code, use more natural data and also code bases are easy to maintain. Examples are ObjectDB (ObjectDB software).
+
+Hierarchical database – In this, the information about the groups of parent or child relationships is present in the records which is similar to the structure of a tree. Here the data follows a series of records, set of values attached to it. They are used in industry on mainframe platforms. Examples are IMS(IBM), Windows registry(Microsoft).
+Network database – Mainly used on a large digital computers. If there are more connections, then this database is efficient. They are similar to hierarchical database, they look like a cobweb or interconnected network of records. Examples are CA-IDMS(COMPUTER associates), IMAGE(HP).
+
+Based on the number of users
+Single user – As the name itself indicates it can support only one user at a time. It is mostly used with the personal computer on which the data resides accessible to a single person. The user may design, maintain and write the database programs.
+Multiple users – It supports multiple users concurrently. Data can be both integrated and shared,a database should be integrated when the same information is not need be recorded in two places. For example a student in the college should have the database containing his information. It must be accessible to all the departments related to him. For example the library department and the fee section department should have information about student’s database. So in such case, we can integrate and even though database resides in only one place both the departments will have the access to it.
+Further they are classified as
+     1.Homogeneous DBMS – They use same software but from the multiple sites. Data exchange between the sites can be handled easily. For example, library information systems by the same vendor ,such as Geac Computer corporation, use the same DBMS software that allows the exchanges between various Geac library sites.
+     2.heterogeneous DBMS – They use different DBMS software for different sites but there is a additional software that helps the exchange of the data between the sites.
+

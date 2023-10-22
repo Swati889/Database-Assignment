@@ -1,0 +1,20 @@
+Databases are used to store and manage large amounts of structured and unstructured data, and they can be used to support a wide range of activities, including data storage, data analysis, and data management. They are used in a variety of settings, including business, scientific, and government organizations.
+Examples of Database
+Few examples of Database are:
+Microsoft SQL Server
+SQL Server, developed by Microsoft, is a Relational Database Management System. It is built on SQL, the standard query language for Database Management Systems.
+Oracle Database
+Developed by Oracle Corporation, Oracle Database is based on a multi-model DBMS. It is widely used when processing online transactions.
+MySQL
+Based on Structured Query Language (SQL), MySQL is a Relational Database Management System. It is used in e-commerce platforms, data warehousing, etc. It is widely used as a web Database Management System.
+
+The various reasons a database is important are:
+•	Manages large amounts of data
+A database stores and manages a large amount of data on a daily basis. This would not be possible using any other tool such as a spreadsheet as they would simply not work.
+•	Accurate
+A database is pretty accurate as it has all sorts of build in constraints, checks etc. This means that the information available in a database is guaranteed to be correct in most cases.
+•	Easy to update data
+In a database, it is easy to update data using various Data Manipulation languages (DML) available. One of these languages is SQL.
+•	Security of data
+Databases have various methods to ensure security of data. There are user logins required before accessing a database and various access specifiers. These allow only authorised users to access the database.
+

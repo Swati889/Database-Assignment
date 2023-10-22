@@ -1,0 +1,22 @@
+Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data. A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database.
+A Data Base Management System is a system software for easy, efficient and reliable data processing and management. It can be used for:
+•	Creation of a database.
+•	Retrieval of information from the database.
+•	Updating the database.
+•	Managing a database.
+•	Multiple User Interface
+•	Data scalability, expandability and flexibility: We can change schema of the database, all schema will be updated according to it.
+•	Overall the time for developing an application is reduced.
+•	Security: Simplifies data storage as it is possible to assign security permissions allowing restricted access to data.
+
+•	Data Integrity and Consistency:
+Data integrity and consistency are crucial for any database. DBMSs provide mechanisms that ensure the accuracy and consistency of data. These mechanisms include constraints, triggers, and stored procedures that enforce data integrity rules. DBMSs also provide features like transactions that ensure that data changes are atomic, consistent, isolated, and durable (ACID).
+•	 Concurrent Data Access:
+A DBMS provides a concurrent access mechanism that allows multiple users to access the same data simultaneously. This is especially important for organizations that require real-time data access. DBMSs use locking mechanisms to ensure that multiple users can access the same data without causing conflicts or data corruption.
+•	 Data Analysis and Reporting:
+DBMSs provide tools that enable data analysis and reporting. These tools allow organizations to extract useful insights from their data, enabling better decision-making. DBMSs support various data analysis techniques such as OLAP, data mining, and machine learning. Moreover, DBMSs provide features like data visualization and reporting, which enable organizations to present their data in a visually appealing and understandable way.
+•	 Scalability and Flexibility:
+DBMSs provide scalability and flexibility, enabling organizations to handle increasing amounts of data. DBMSs can be scaled horizontally by adding more servers or vertically by increasing the capacity of existing servers. This makes it easier for organizations to handle large amounts of data without compromising performance. Moreover, DBMSs provide flexibility in terms of data modeling, enabling organizations to adapt their databases to changing business requirements.
+•	Cost-Effectiveness:
+DBMSs are cost-effective compared to traditional file-based systems. They reduce storage costs by eliminating redundancy and optimizing data storage. They also reduce development costs by providing tools for database design, maintenance, and administration. Moreover, DBMSs reduce operational costs by automating routine tasks and providing self-tuning capabilities.
+
